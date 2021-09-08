@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rachana-prajapati
-- 👀 Complex problem interests me. Eager to learn more and solve complex problems which creates larger impact.
+- 👀 Eager to learn more and solve complex problems which creates larger impact.
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on all kinds of open source projects.
 - 📫 How to reach me - 
